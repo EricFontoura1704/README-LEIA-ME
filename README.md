@@ -43,14 +43,6 @@
 <img href="https://raw.githubusercontent.com/E/E/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img height="350" src="https://s2.glbimg.com/mBdu7y0sX_cbKnieGIleTst1ADY=/0x0:825x619/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/u/n/83nNsCQ8SWRrziGD1mAw/stonks-meme.png"  />
-</div>
-
-###
-Profile Readme Generator
-
 name: Generate snake animation
 
 on:
@@ -82,4 +74,12 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+<div align="center">
+  <img height="350" src="https://s2.glbimg.com/mBdu7y0sX_cbKnieGIleTst1ADY=/0x0:825x619/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/u/n/83nNsCQ8SWRrziGD1mAw/stonks-meme.png"  />
+</div>
+
+###
 Profile Readme Generator
+
