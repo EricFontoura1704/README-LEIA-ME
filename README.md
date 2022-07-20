@@ -43,43 +43,11 @@
 <img href="https://raw.githubusercontent.com/E/E/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  Profile Readme Generator
 
 <div align="center">
   <img height="350" src="https://s2.glbimg.com/mBdu7y0sX_cbKnieGIleTst1ADY=/0x0:825x619/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/u/n/83nNsCQ8SWRrziGD1mAw/stonks-meme.png"  />
 </div>
 
 ###
-Profile Readme Generator
+
 
