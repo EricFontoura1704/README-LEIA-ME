@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I live in Brazil , Rio Grande do sul<br>I'm a Front-End developer<br>I practice and listen to English all day<br>And I am also taking courses and I intend to go to college to improve my knowledge</p>
+<p align="left">I live in Brazil , Rio Grande do sul<br>I'm a Front-End developer<br>I practice and listen to English all day<br> I am taking courses and I intend to go to college to improve my knowledge</p>
 
 ###
 
