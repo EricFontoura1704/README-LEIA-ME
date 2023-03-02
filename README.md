@@ -4,8 +4,8 @@
 
 <p align="left"> I live in Brazil , Rio Grande do sul <br>
   I'm a Front-end focused developer <br>
-  I practice and listen to English all day <br>
-  I am taking courses and I intend to go to college to improve my knowledge </p>
+  I practice and listen to english all day <br>
+  I am taking courses , and i intend to go to college to improve my knowledge </p>
 
 <p align="left"> Eu moro no Brasil , no Rio Grande do Sul <br>
 Eu sou um desenvolvedor focado no Front-End <br>
