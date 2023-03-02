@@ -8,7 +8,7 @@
   I am taking courses and I intend to go to college to improve my knowledge </p>
 
 <p align="left"> Eu moro no Brasil , no Rio Grande do Sul <br>
-Sou um Desenvolvedor focado no Front-End <br>
+Sou um desenvolvedor focado no Front-End <br>
 Eu pratico e ouço inglês o dia todo <br>
 Eu estou fazendo cursos , e pretendo fazer faculdade para aprimorar meus conhecimentos </p>
 
